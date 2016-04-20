@@ -41,3 +41,4 @@ Curry-muunnos:
 Mistä on kysymys?: funktiota f kutsutaan näin: f("moi", 8)
 ja funktiota g kutsutaan näin: g("moi")(8)
 
+kun g:lle annetaan yksi argumentti, se palauttaa funktion, jolle voi antaa vielä yhden argumentin, jolloin se toteuttaa funktion.
